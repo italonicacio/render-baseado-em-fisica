@@ -2,6 +2,11 @@
 
 Projeto feito durante a disciplina de render baseado em física.
 
+## Dependências
+
+* Assimp
+* GLM
+
 ## Imagem final 
 
 Imagem Final renderizada por nossa engine.
